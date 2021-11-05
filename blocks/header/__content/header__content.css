@@ -1,8 +1,7 @@
 .header__content {
-  display: flex;
-  flex-flow: row;
-  justify-content: space-between;
-  align-content: center;
+  display: grid;
+  grid-template-columns: 480px 480px 480px;
+
   max-width: 1440px;
   padding: 20px 40px;
   margin: 0 auto;

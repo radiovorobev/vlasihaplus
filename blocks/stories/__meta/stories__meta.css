@@ -5,7 +5,9 @@
   align-items: flex-start;
   padding: 25px;
   box-sizing: border-box;
-  background-color: var(--purple);
+  background: #ad5389;
+  background: -webkit-linear-gradient(45deg, #3c1053, #ad5389);
+  background: linear-gradient(45deg, #3c1053, #ad5389);
   max-width: 512px;
   height: 100%;
   border-radius: 0 10px 10px 0;
