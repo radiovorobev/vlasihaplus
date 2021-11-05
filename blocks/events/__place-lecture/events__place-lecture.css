@@ -1,0 +1,5 @@
+.events__place-lecture {
+  color: var(--green);
+  font-style: italic;
+  font-weight: 700;
+}

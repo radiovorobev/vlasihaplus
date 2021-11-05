@@ -1,0 +1,14 @@
+.news-list__news-item-link {
+  font-family: Inter, Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.2;
+  text-decoration: none;
+  color: var(--black);
+}
+
+.news-list__news-item-link:hover {
+  color: var(--coral);
+  text-decoration: underline;
+}

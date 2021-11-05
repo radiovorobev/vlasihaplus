@@ -1,0 +1,55 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__content/page__content.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__content/header__content.css);
+
+@import url(../blocks/website-title/website-title.css);
+@import url(../blocks/website-title/__subtitle/website-title__subtitle.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_events/section-title_events.css);
+
+@import url(../blocks/stories/stories.css);
+@import url(../blocks/stories/__item/stories__item.css);
+@import url(../blocks/stories/__image/stories__image.css);
+@import url(../blocks/stories/__title/stories__title.css);
+@import url(../blocks/stories/__meta/stories__meta.css);
+@import url(../blocks/stories/__address/stories__address.css);
+@import url(../blocks/stories/__address-icon/stories__address-icon.css);
+@import url(../blocks/stories/__date/stories__date.css);
+@import url(../blocks/stories/__list/stories__list.css);
+@import url(../blocks/stories/__list-item/stories__list-item.css);
+@import url(../blocks/stories/__list-item-link/stories__list-item-link.css);
+
+@import url(../blocks/events/events.css);
+@import url(../blocks/events/__items/events__items.css);
+@import url(../blocks/events/__item/events__item.css);
+@import url(../blocks/events/__place/events__place.css);
+@import url(../blocks/events/__date/events__date.css);
+@import url(../blocks/events/__place-lecture/events__place-lecture.css);
+@import url(../blocks/events/__title/events__title.css);
+@import url(../blocks/events/__link/events__link.css);
+
+@import url(../blocks/news-sidebar/news-sidebar.css);
+
+@import url(../blocks/news-list/news-list.css);
+@import url(../blocks/news-list/__news-item/news-list__news-item.css);
+@import url(../blocks/news-list/__news-item-heading/news-list__news-item-heading.css);
+@import url(../blocks/news-list/__news-item-date/news-list__news-item-date.css);
+@import url(../blocks/news-list/__news-item-link/news-list__news-item-link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__item/nav__item.css);
+@import url(../blocks/nav/__item-link/nav__item-link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/logo/logo.css);

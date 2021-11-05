@@ -1,0 +1,26 @@
+.stories__list-item {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-end;
+  background-image: url("../../../images/story-image-small.jpg");
+  background-size: cover;
+  width: 280px;
+  height: 200px;
+  border-radius: 10px;
+  z-index: 1;
+  padding: 25px;
+}
+
+.stories__list-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 50%;
+  background: rgb(0,0,0);
+  background: linear-gradient(360deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+  z-index: 0;
+  border-radius: 0 0 10px 10px;
+}

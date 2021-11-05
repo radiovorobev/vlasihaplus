@@ -1,0 +1,12 @@
+.stories__meta {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 25px;
+  box-sizing: border-box;
+  background-color: var(--purple);
+  max-width: 512px;
+  height: 100%;
+  border-radius: 0 10px 10px 0;
+}

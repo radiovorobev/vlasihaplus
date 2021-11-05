@@ -1,0 +1,10 @@
+.events__link {
+  font-family: Inter, Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.2;
+  text-decoration: none;
+  color: var(--white);
+  align-self: self-end  ;
+}

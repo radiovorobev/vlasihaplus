@@ -1,0 +1,5 @@
+.stories__image {
+  border: 0;
+  max-width: 512px;
+  border-radius: 10px 0 0 10px;
+}

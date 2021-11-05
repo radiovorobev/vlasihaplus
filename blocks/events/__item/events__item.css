@@ -1,0 +1,14 @@
+.events__item {
+  border-radius: 10px;
+  border: 1px solid var(--aqua);
+  padding: 20px;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  width: 502px;
+  box-sizing: border-box;
+}
+
+.events__item:first-child {
+  margin-right: 20px;
+}

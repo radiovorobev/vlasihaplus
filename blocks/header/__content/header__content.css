@@ -1,0 +1,11 @@
+.header__content {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-content: center;
+  max-width: 1440px;
+  padding: 20px 40px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  overflow: hidden;
+}

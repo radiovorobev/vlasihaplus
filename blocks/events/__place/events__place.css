@@ -1,0 +1,10 @@
+.events__place {
+  color: var(--white);
+  margin: 0 0 10px 0;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 1.2;
+  text-transform: uppercase;
+}

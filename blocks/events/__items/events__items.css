@@ -1,0 +1,5 @@
+.events__items {
+  background-color: var(--dark);
+  padding: 30px 40px;
+  display: flex;
+}

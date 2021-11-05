@@ -1,0 +1,10 @@
+.news-sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: var(--light);
+  max-width: 340px;
+  box-sizing: border-box;
+  padding: 30px 40px;
+}
