@@ -11,3 +11,15 @@
     max-width: 1024px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .page__content {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page__content {
+    min-width: 320px;
+  }
+}

@@ -18,3 +18,17 @@
     width: 472px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .stories__meta  {
+    border-radius: 0 0 10px 10px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .stories__meta  {
+    min-width: 320px;
+    min-height: 100%;
+  }
+}

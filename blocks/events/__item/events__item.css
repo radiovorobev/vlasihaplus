@@ -12,3 +12,18 @@
 .events__item:first-child {
   margin-right: 20px;
 }
+
+@media screen and (max-width: 1023px) {
+  .events__item  {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .events__item  {
+    max-width: 100%;
+    min-width: 320px;
+    margin-bottom: 20px;
+  }
+}

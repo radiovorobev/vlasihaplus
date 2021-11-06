@@ -11,3 +11,17 @@
     width: 472px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .stories__image  {
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .stories__image  {
+    min-width: 320px;
+    min-height: 100%;
+  }
+}

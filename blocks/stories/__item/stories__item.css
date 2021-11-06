@@ -11,3 +11,11 @@
     grid-template-columns: 472px auto;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .stories__item  {
+    grid-template-columns: none;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 0;
+  }
+}
