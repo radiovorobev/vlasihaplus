@@ -4,3 +4,9 @@
   margin: 0 auto;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1439px) {
+  .footer__content {
+    width: 1024px;
+  }
+}

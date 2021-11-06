@@ -1,19 +1,5 @@
-@keyframes rotation {
-  from {
-  transform: rotate(0deg);
-    transform-origin: center center;
-} to {
-      transform: rotate(90deg);
-      transform-origin: center center;
-    }
-}
 
 .plus {
   height: 29px;
   display: inline-block;
-}
-
-.rotation {
-  animation: rotation linear 1s;
-  animation-delay: 2s;
 }

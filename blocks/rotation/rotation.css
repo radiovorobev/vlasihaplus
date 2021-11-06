@@ -1,0 +1,14 @@
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+    transform-origin: center center;
+  } to {
+      transform: rotate(90deg);
+      transform-origin: center center;
+    }
+}
+
+.rotation {
+  animation: rotation linear 1s;
+  animation-delay: 2s;
+}

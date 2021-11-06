@@ -1,10 +1,8 @@
-.events__link {
+.section-more-link {
   font-family: Inter, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 1.2;
   text-decoration: none;
-  color: var(--white);
-  align-self: self-end;
 }

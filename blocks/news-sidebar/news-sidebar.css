@@ -1,4 +1,5 @@
 .news-sidebar {
+  order: -1;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -7,4 +8,10 @@
   max-width: 340px;
   box-sizing: border-box;
   padding: 30px 40px;
+}
+
+@media screen and (max-width: 1439px) {
+  .news-sidebar {
+    min-width: 1024px;
+  }
 }

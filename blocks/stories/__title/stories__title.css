@@ -13,3 +13,9 @@
   color: var(--light);
   cursor: pointer;
 }
+
+@media screen and (max-width: 1439px) {
+  .stories__title  {
+    font-size: 42px;
+  }
+}

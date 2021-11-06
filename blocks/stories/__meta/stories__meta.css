@@ -8,7 +8,13 @@
   background: #ad5389;
   background: -webkit-linear-gradient(45deg, #3c1053, #ad5389);
   background: linear-gradient(45deg, #3c1053, #ad5389);
-  max-width: 512px;
+  width: 512px;
   height: 100%;
   border-radius: 0 10px 10px 0;
+}
+
+@media screen and (max-width: 1439px) {
+  .stories__meta  {
+    width: 472px;
+  }
 }

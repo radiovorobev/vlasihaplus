@@ -1,3 +1,11 @@
+const plus = document.querySelector('.plus');
+plus.addEventListener('animationend', () => {
+	plus.classList.remove('rotation');
+	plus.offsetWidth;
+	plus.classList.add('rotation');
+
+});
+
 function changeSubtitle() {
 	const websiteSubtitles = [
 		{ text: 'Новости', color: '#00ff19' },
@@ -23,10 +31,3 @@ function changeSubtitle() {
 }
 
 changeSubtitle();
-const plus = document.querySelector('.plus');
-plus.addEventListener('animationend', () => {
-	plus.classList.remove('rotation');
-	plus.offsetWidth;
-	plus.classList.add('rotation');
-
-});
