@@ -28,7 +28,8 @@
 
 @media screen and (max-width: 767px) {
   .stories__meta  {
-    min-width: 320px;
+    min-width: 290px;
     min-height: 100%;
+    padding: 15px;
   }
 }

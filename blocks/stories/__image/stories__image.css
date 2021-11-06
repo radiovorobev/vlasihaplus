@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 767px) {
   .stories__image  {
-    min-width: 320px;
+    min-width: 290px;
     min-height: 100%;
   }
 }

@@ -12,3 +12,9 @@
     flex-flow: column;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .events__items  {
+    padding: 30px 15px;
+  }
+}

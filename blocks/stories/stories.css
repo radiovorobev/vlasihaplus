@@ -1,3 +1,9 @@
 .stories {
   padding: 30px 40px;
 }
+
+@media screen and (max-width: 767px) {
+  .stories {
+    padding: 30px 15px;
+  }
+}
